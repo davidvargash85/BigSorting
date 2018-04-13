@@ -7,6 +7,7 @@ namespace SherlockAndTheBeast
         static void Main(string[] args)
         {
             DecentNumber(100000);
+
         }
 
         static void DecentNumber(int n)
